@@ -1,4 +1,4 @@
-# quran
+# Islamic
 
 A new Flutter project.
 
