@@ -1,16 +1,27 @@
-# Islamic
+🕌 Islamic App 1.0.0
 
-A new Flutter project.
+تطبيق إسلامي مبني باستخدام **Flutter** يساعد المستخدمين على:
+- قراءة القرآن الكريم
+- معرفة مواقيت الصلاة
+- التسبيح والأذكار
+- الاطلاع على الأحاديث الشريفة
 
-## Getting Started
+The application of the Holy Islamic helps you to read the surahs and verses wherever you go and remember the times of prayer with determining the direction of the qiblah.
+There is also our Holy Islamic radio station.
+We also give you the possibility to glorify God and display hadiths and remembrances.
 
-This project is a starting point for a Flutter application.
+Features Updated : 
 
-A few resources to get you started if this is your first Flutter project:
+Offline Mode – Improved
+Qiblah
+Azkar and Hadith
+Radio
+Dark And Light Mode 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Author : 
+Ahmed Gad Elgaml
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
